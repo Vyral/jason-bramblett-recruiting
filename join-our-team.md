@@ -1,6 +1,6 @@
 ---
 layout: recruiting
-title: Greensboro Careers
+title: Triad Careers
 permalink: /join-our-team/
 ---
 
