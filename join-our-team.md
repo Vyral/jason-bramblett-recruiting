@@ -19,7 +19,7 @@ permalink: /join-our-team/
 
 <p>I understand that you may be working at a real estate brokerage or on a traditional team as part of someone else’s personal brand. You understand your potential and are working hard to clear a path toward your goals, but currently lack the support you need to achieve them. </p>
 
-<p>Many brokerages promise to provide structure, coaching, and other resources, but fail to make good on their word once they’ve drawn you in. As a result of this and other factors, <strong>87% of all new agents fail within five years of working in the industry.</strong></p>
+<p>Many brokerages promise to provide structure, coaching, and other resources, but fail to make good on their word once they’ve drawn you in. As a result of this and other factors, <strong>82% of all new agents fail within five years of working in the industry.</strong></p>
 
 <p>The reason so many agents drop out of the business is simple: They don’t know what they’re doing. And this often isn’t their fault. It’s an unfortunate truth of our industry that the majority of brokerages out there don’t properly educate or equip their agents. </p>
 
