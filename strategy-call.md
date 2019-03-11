@@ -16,7 +16,7 @@ permalink: /strategy-call/
 
 <p><strong>I know how challenging it is to sell real estate.</strong></p>
 
-<p>You have discount brokerages, competing agents, and hundreds of ways to get clients (all are not equal, I’ll tell you).</p>
+<p>You have discount brokerages, competing agents, and hundreds of ways to get clients (I can assure you, all are not equal).</p>
 
 <p>It can get overwhelming to stick to a consistent business plan that makes you money.</p>
 
@@ -41,11 +41,15 @@ permalink: /strategy-call/
 <p><span class="quote">Training is very practical and interactive and it is presented in a variety of ways to enhance retention of the information and skills shared.</span><br>
 <span class="author">- Elisabeth Corona</span></p>
 
-<p><span class="quote">I've enjoyed learning from real experiences that have happened in our current day. It's helpful knowing what objections agents are being faced with today and what to expect from our specific demographic. I appreciate that our training isn't only coming from books and studies that may or may not be relatable, but that our training is based off the experiences that our team brings in, complemented by books and studies that offer insight and wisdom from people that have been where we are and have built strategic systems to grow their own personal success. I appreciate that our team has taken the opportunity to learn from others failures and to walk in wisdom rather than recreating history with no consideration to learn from others stories. "No need to recreate the wheel", is said a lot and makes a lot of sense, if someone has gone before you, use what they did well, choose to walk in wisdom, choose efficiency and productivity. I think our team does really well in the area of growth rather than criticism. Our team members are willing to role play, fail, and share areas of weakness because they feel safe here. In general, I feel as if our entire team prioritizes growth and each member, with their talents, take on opportunities to teach. I feel as if each team member has something to offer when it comes to challenging, molding, and growing our team as a whole
+<p><span class="quote">Our team does really well in the area of growth rather than criticism. It's this atmosphere of growth that gives our team members the willingness to fail and share areas of weakness in their personal pursuits to success.<br><br>
+
+I've enjoyed learning from real experiences that are happening in our current day. It's helpful to know the objections agents are being faced with today and what to expect from our specific demographic. I appreciate that our training isn't only coming from books and studies, but that it's based off the experiences that our specific team brings in, complemented by books and studies that offer insight and wisdom from individuals who have been where we are and have built strategic systems to grow their own personal success. I appreciate that our team has taken the opportunity to learn from others failures and have chosen to walk in wisdom rather than recreating history with no consideration to learn from others.<br><br>
+
+"No need to recreate the wheel."
 </span><br>
 <span class="author">- Kayla Suddreth</span></p>
 
-<p><span class="quote">We train like black ops, trained by the best in the industry, with a specifically designed & proven training program to maximize the natural skills of anyone who is highly motivated to make of Real Estate a successful and rewarding Carrer.
+<p><span class="quote">We train like black ops, trained by the best in the industry, with a specifically designed & proven training program to maximize the natural skills of anyone who is highly motivated to make Real Estate a successful and rewarding Career.
 "we are no here to take part, we are here to take over"</span><br>
 <span class="author">- Yamil Martinez</span></p>
 
