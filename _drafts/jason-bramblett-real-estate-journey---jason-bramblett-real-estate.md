@@ -17,4 +17,4 @@ youtube_code:
 
 Hear how Jason Bramblett built his real estate business in Greensboro, his tips for success, and his goals for the future.
 
-{% include events-cta.html %} {% include join-our-team-cta.html %}
+{% include join-our-team-cta.html %}
