@@ -1,7 +1,7 @@
 ---
 layout: post
-title:
-date:
+title: Jason Bramblett Real Estate Journey
+date: 2019-05-23 15:00:00
 tags:
 excerpt:
 enclosure:
@@ -10,7 +10,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code:
+youtube_code: FyKq-nbeM-0
 ---
 
 {% include youtube.html %}
