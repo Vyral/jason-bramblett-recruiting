@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Shift Is Coming. Are You Ready?
-date: 2019-09-12 18:23:33
+date: 2019-09-12 18:23:00
 tags:
   - Transaction Management
   - Reviews and Referrals
@@ -13,7 +13,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: Tb2qhIN0lLw
+youtube_code: 3kGplZZMpxQ
 ---
 
 {% include youtube.html %}
