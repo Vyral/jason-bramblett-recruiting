@@ -16,7 +16,7 @@ youtube_code: NIDil7PkRkQ
 
 {% include youtube.html %}
 
-*Here are some ways to make money in real estate without buying a home.*
+<center><em>Here are some ways to make money in real estate without buying a home.</em></center>
 
 &nbsp;
 
