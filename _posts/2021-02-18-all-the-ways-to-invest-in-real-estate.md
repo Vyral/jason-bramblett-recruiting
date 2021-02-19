@@ -26,7 +26,7 @@ The answer is, “Absolutely yes\!” There are so many different ways to partic
 
 {% include pullquote.html %}
 
-McDonald’s business model is a great example of how potent this investment strategy can be. The corporation itself owns most of the land upon which the franchisees have their restaurants. This was a stroke of genius from McDonald’s founder Ray Kroc, and it’s the reason McDonald’s is worth billions today.
+McDonald’s business model is a great example of how potent this investment strategy can be. The corporation itself owns most of the land upon which the franchisees have their restaurants. This was a stroke of genius and it’s the reason McDonald’s is worth billions today.
 
 In our area, we also see a lot of farmers who lease the ground where other farmers grow their crops. This is another great long-term play because if you don’t do anything with land, stuff grows. **Leasing it helps preserve that stuff from growing and devaluing your land.**
 
