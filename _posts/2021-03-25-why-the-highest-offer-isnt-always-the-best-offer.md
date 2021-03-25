@@ -17,13 +17,13 @@ youtube_code: W51ZMFXlt6M
 ---
 {% include youtube.html %}
 
-<center><em>For home sellers, it may seem like a smart choice to go with the highest bidder, but this route can easily backfire. Here’s why. </em></center>
+<center><em>For home sellers, it may seem like a smart choice to go with the highest bidder, but this route can easily backfire. Here&rsquo;s why. </em></center>
 
+<center>&nbsp;</center>
 
 For most home sellers, it’s incredibly tempting to look at all the offers they’re receiving and simply go with the one with the highest price tag. In nearly any other situation, it’d be common sense—why would you accept less when you could get more? **Well, in the Triad area, we see a lot of potential home sales fall through for this very reason.** Sellers are distracted by the dollar signs and forget to think about how easily buyers can just walk away and leave a listing (and the seller) in the dust.
 
 {% include pullquote.html %}
-
 
 In this radio interview, I describe why the best offers are the ones that come from a willing buyer—not someone who simply says they *could* pay a lot. **For your convenience, these timestamps will help you navigate to topics in the video you are most interested in viewing:**
 
