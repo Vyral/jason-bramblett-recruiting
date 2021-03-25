@@ -6,7 +6,8 @@ tags:
 excerpt: >-
   For home sellers, it may seem like a smart choice to go with the highest
   bidder, but this route can easily backfire. Here’s why.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jason+Bramblett/Videos/2021/Multiple+Offers+-+Jason+Bramblett+Real+Estate.mp4
 pullquote: Buyers can just walk away and leave a listing (and the seller) in the dust.
 enclosure_type: video/mp4
 enclosure_time:
