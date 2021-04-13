@@ -16,12 +16,13 @@ youtube_code: v7BI8yKAo0s
 ---
 {% include youtube.html %}
 
-<center><em>When it comes to commission, don’t expect your agent to make a ‘deal.’</em></center>
+<center><em>When it comes to commission, don&rsquo;t expect your agent to make a &lsquo;deal.&rsquo;</em></center>
+
 &nbsp;
 
-Just a year or two ago, if you could get one offer on your house within 60 days, that was a homerun. Now, if you have a reasonable home in a reasonable area that’s in a ‘sweet spot’ price point, you can expect as many as 10 offers in 48 hours. That means you as a seller should get a deal commission-wise, right? After all, your agent only had to work for a couple of days as opposed to, say, three months. Well, actually that’s not the case, and today I’ll tell you why.&nbsp;
+Just a year or two ago, if you could get one offer on your house within 60 days, that was a home run. Now, if you have a reasonable home in a reasonable area that’s in a ‘sweet spot’ price point, you can expect as many as 10 offers in 48 hours. That means you as a seller should get a deal commission-wise, right? After all, your agent only had to work for a couple of days as opposed to, say, three months. Well, actually that’s not the case, and today I’ll tell you why.&nbsp;
 
-**Cited below for your convenience are timestamps that will direct you to various points in the video. Feel free to watch it in its entirety or use these timestamps to browse specific points at your leisure:**
+**Cited below for your convenience are timestamps that will direct you to various points in the video. Feel free to watch it in its entirety, or use these timestamps to browse specific points at your leisure:**
 
 1:12—Commission has no standard in North Carolina
 
