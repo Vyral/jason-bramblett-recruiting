@@ -3,7 +3,7 @@ layout: post
 title: 'What Buyers Need To Know About Our Housing Market '
 date: 2023-02-26 07:00:00
 tags:
-excerpt: 'Here’s what savvy buyers should know about our housing market. '
+excerpt:
 enclosure:
 pullquote:
 enclosure_type: video/mp4
