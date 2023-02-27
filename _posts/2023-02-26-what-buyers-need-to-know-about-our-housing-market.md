@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What Buyers Need To Know About Our Housing Market
+title: 'What Buyers Need To Know About Our Housing Market '
 date: 2023-02-26 07:00:00
 tags:
 excerpt: 'Here’s what savvy buyers should know about our housing market. '
@@ -13,8 +13,6 @@ youtube_alternate_image: /uploads/2-27.jpg
 youtube_code: 6teMJxFWxl4
 ---
 {% include youtube.html %}
-
-{% include excerpt.html %}
 
 By now, you may have heard that our real estate market has shifted. Home prices are changing, interest rates are changing, and our entire market is totally different. This is making some people nervous about the future, but some savvy buyers and agents are starting to find new opportunities. Today I’ll explain how some buyers are starting to take advantage of our changing housing market.&nbsp;
 
